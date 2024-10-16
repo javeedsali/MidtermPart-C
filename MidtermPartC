@@ -1,0 +1,17 @@
+ant -f C:\\Users\\javee\\OneDrive\\Documents\\NetBeansProjects\\SYST17796_MidtermReviewPartCC -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\javee\OneDrive\Documents\NetBeansProjects\SYST17796_MidtermReviewPartCC\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\javee\OneDrive\Documents\NetBeansProjects\SYST17796_MidtermReviewPartCC\build\built-jar.properties
+compile:
+run:
+Please enter your desired user name:
+javeed
+Passwords must have at least 8 characters
+Passwords must have at least one special character
+Please enter your desired password:
+JAVA@5848k
+New User Added
+UserName: javeed
+User Status: ACTIVE
+BUILD SUCCESSFUL (total time: 11 seconds)
